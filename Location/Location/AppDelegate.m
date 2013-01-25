@@ -2,7 +2,7 @@
 //  AppDelegate.m
 //  Location
 //
-//  Created by Juan Gac on 22-01-13.
+//  Created by Henry AT on 22-01-13.
 //  Copyright (c) 2013 Apps4s. All rights reserved.
 //
 

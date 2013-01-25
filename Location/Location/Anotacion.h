@@ -2,7 +2,7 @@
 //  Anotacion.h
 //  Location
 //
-//  Created by Juan Gac on 25-01-13.
+//  Created by Henry AT on 25-01-13.
 //  Copyright (c) 2013 Apps4s. All rights reserved.
 //
 
